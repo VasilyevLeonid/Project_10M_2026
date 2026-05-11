@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+catboost
+statsmodels
+PyQt5
+openpyxl
